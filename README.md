@@ -10,3 +10,9 @@ In this repository, we provide
 ## Setup to run the code locally
 
 Download this repository either as zip-file or clone it to your local file system by running
+```
+https://github.com/cyber-hydrology/Deep-Learning-Based-Super-Resolution-Model-for-Urban-Flood-Mapping.git
+```
+### Setting up the Python environment
+This model must be performed in TensorFlow version 2.15.0 and simply run ipynb code in juputer notebook.
+Get the required library by running the first code fragment in ipynb code.
