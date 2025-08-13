@@ -3,8 +3,8 @@
 This repository accompanies the paper [**Comparative Evaluation of Deep Learning-Based Super-Resolution Models for Urban Flood Mapping**] (under review) by Hyeonjin Choi, Hyuna Woo, Hyungon Ryu, Dong Sop Rhee, and Seong Jin Noh, and is maintained by the Hydrology and Water Resources Lab (Noh Lab) at Kumoh National Institute of Technology.
 
 In this repository, we provide
-* Demo & Training code (code)
-* Datasets we used (data)
+* Demo & Training code (code folder)
+* Datasets we used (input folder)
 
 ## Setup to run the code locally
 
